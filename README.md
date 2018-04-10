@@ -1,5 +1,7 @@
 # ArduinoTester
 This code helps you find what's wrong with your wiring if the code doesn't work or test your project quickly before writing the code.
+
+This is a work in progress.
 It is made for all sorts of arduino and prototyping boards but for now it works (and tested) on Arduino UNO, NANO and MEGA.
 I am an amateur and wrote this code for my own projects but a friend told me it's a good idea to share it, so here we go.
 My suggestion for you is; upload the code to an existing project before reading it through, it should be very intuitive and easy to work with
